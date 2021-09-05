@@ -6,5 +6,6 @@ public class Master {
 	
 	//some code from dev to master
 	//some code from dev to master 2
+	//some code from dev to master 3
 
 }
